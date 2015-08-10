@@ -1,3 +1,5 @@
-# UUID                                  	Group Name
-#
-c9629b4355c102f06e6acf5dbbee678046fc9a8d	reptest-ptl
+# UUID          Group Name
+33cb77e2fcc6f4e1e4d095ffcb5516368dde0415 	Non-Interactive Users
+32da5797e0e15a02542f98ea12e7b143a4525cfd       	reptest-core
+c9629b4355c102f06e6acf5dbbee678046fc9a8d        	reptest-ptl
+global:Registered-Users		Registered Users
