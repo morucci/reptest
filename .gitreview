@@ -1,0 +1,5 @@
+[gerrit]
+host=tests.dom
+port=29418
+project=reptest
+defaultbranch=master
